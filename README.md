@@ -1,15 +1,6 @@
-# **CMPT 371 A3 Socket Programming `End-to-end Encrypted Messenger`**
 
-**Course:** CMPT 371 \- Data Communications & Networking  
-**Instructor:** Mirza Zaeem Baig  
-**Semester:** Spring 2026  
 
-## **Group Members**
 
-| Name | Student ID | Email |
-| :---- | :---- | :---- |
-| Julianna Morena | 301577023 | jam46@sfu.ca |
-| Sukhman Virk | 301468282 | ssv12@sfu.ca |
 
 ## **1\. Project Overview & Description**
 
